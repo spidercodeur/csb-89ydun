@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://spidercodeur.github.io/csb-89ydun/static/css/main.01576b08.chunk.css",
+    "main.js": "https://spidercodeur.github.io/csb-89ydun/static/js/main.1d435a23.chunk.js",
+    "main.js.map": "https://spidercodeur.github.io/csb-89ydun/static/js/main.1d435a23.chunk.js.map",
+    "runtime-main.js": "https://spidercodeur.github.io/csb-89ydun/static/js/runtime-main.1ab44f74.js",
+    "runtime-main.js.map": "https://spidercodeur.github.io/csb-89ydun/static/js/runtime-main.1ab44f74.js.map",
+    "static/js/2.e21a251c.chunk.js": "https://spidercodeur.github.io/csb-89ydun/static/js/2.e21a251c.chunk.js",
+    "static/js/2.e21a251c.chunk.js.map": "https://spidercodeur.github.io/csb-89ydun/static/js/2.e21a251c.chunk.js.map",
+    "index.html": "https://spidercodeur.github.io/csb-89ydun/index.html",
+    "static/css/main.01576b08.chunk.css.map": "https://spidercodeur.github.io/csb-89ydun/static/css/main.01576b08.chunk.css.map",
+    "static/js/2.e21a251c.chunk.js.LICENSE.txt": "https://spidercodeur.github.io/csb-89ydun/static/js/2.e21a251c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1ab44f74.js",
+    "static/js/2.e21a251c.chunk.js",
+    "static/css/main.01576b08.chunk.css",
+    "static/js/main.1d435a23.chunk.js"
+  ]
+}
